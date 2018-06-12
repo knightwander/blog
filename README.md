@@ -1,0 +1,2 @@
+# blog
+haichao first blog
